@@ -1,6 +1,6 @@
 indent-width = 4
 line-length = 79
-required-version = ">=0.6.1"
+required-version = ">=0.9.4"
 target-version = "py311"
 # Enable preview features.
 preview = true
